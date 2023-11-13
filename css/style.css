@@ -41,3 +41,12 @@ h6{
 ul{
     padding: 16px;
 }
+th{
+    background-color: blue;
+}
+tr{
+    background-color: aquamarine;
+}
+.different{
+    background-color: white;
+}
