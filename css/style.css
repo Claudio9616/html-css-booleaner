@@ -41,6 +41,10 @@ h6{
 ul{
     padding: 16px;
 }
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
 th{
     background-color: blue;
 }
